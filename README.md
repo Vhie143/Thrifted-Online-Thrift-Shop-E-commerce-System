@@ -44,3 +44,8 @@ Ensure the following are installed:
 
 ### 7.   Run the Development Server
     - ```python manage.py runserver```
+
+MEMBERS:
+AUCILLA, CRISELDA VHIE O.
+ROBIS, BRENT KRISTIAN L.
+SANTOS, VANNAH MAIE R.
